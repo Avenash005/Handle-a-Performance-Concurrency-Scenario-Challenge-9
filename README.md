@@ -96,7 +96,7 @@ curl http://localhost:3000/api/bookings/show/1
 
 You'll see two bookings for the same seat. This is the race condition.
 
----
+----
 
 ## Your Tasks
 
@@ -107,7 +107,7 @@ You'll see two bookings for the same seat. This is the race condition.
 5. **Fill in `concurrency-explainer.md`** — explain the root cause and your fixes in your own words
 6. **Push to your own repo and create a PR**
 
----
+----
 
 ## Sample Data Reference
 
@@ -119,7 +119,7 @@ After seeding, you have:
 | Show | Coldplay Live 2025 (id: 1) |
 | Seats | A1–A5 (id: 1–5) |
 
----
+----
 
 ## Submission
 
